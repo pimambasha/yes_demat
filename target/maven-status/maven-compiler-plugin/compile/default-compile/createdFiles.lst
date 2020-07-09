@@ -1,0 +1,7 @@
+yesbank\resource\JobResource.class
+yesbank\dao\JobDao.class
+yesbank\entity\Entity.class
+yesbank\JAXRSConfiguration.class
+yesbank\dao\Dao.class
+yesbank\business\JobBusiness.class
+yesbank\entity\Job.class
